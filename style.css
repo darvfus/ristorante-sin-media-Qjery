@@ -1,0 +1,108 @@
+@media (min-width: 200px) and (max-width: 400px) { 
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    #header1{
+       
+            color: white;
+            background-color: aqua;  
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+            width:100%;
+            max-width: 3000px;
+          margin:auto;
+        }
+        
+      
+.jumbotron{
+    background-color: aqua;  
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+   width:100%;
+   max-width: 3000px;
+ margin:auto;
+
+}
+.row{
+    text-align: justify;
+} 
+h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+
+.footer{
+    background-color: rgba(132, 149, 245, 0.781);
+}
+}
+@media (min-width: 401px) and (max-width: 2000px) {
+   
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: justify;
+    }
+
+    
+    .container{
+        text-align: justify;
+     color:aliceblue;
+     font-family:'Robot',sans-serif;
+        }
+       
+        .row{
+            text-align: justify;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          
+            width:100%;
+max-width: 3000px;
+margin:auto;
+font-size:large;
+font-weight: 400;
+line-height: 1.5;
+        }
+        h2{
+            margin-top: 70px;
+            margin-bottom: 10px;
+            padding-right: 25px;
+            padding-left: 25px;
+            margin-right: auto;
+            margin-left: auto;
+            
+        }
+        h3{
+         
+            font-size: 24px;
+        
+        }
+    
+            
+        
+            .jumbotron{
+    background-color: rgb(128, 0, 255);  
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+width:100%;
+max-width: 3000px;
+margin:auto;
+font-size:large;
+
+}
+
+
+
+.footer{
+background-color: rgba(132, 149, 245, 0.781);
+}
+}
+ 

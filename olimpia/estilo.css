@@ -1,0 +1,21 @@
+body{
+    background-color: #FFF8DC
+    ;
+    color: #400;
+    }
+h1, h2, h3 {
+font-family: Georgia;
+}
+h1{
+font-size:2em;
+}
+h2{
+font-size:1em;
+}
+p{
+font-family:Arial,Helvetica, sans-serif;
+}
+.in{
+list-style-type: circle;
+list-style-position: inside;
+}
